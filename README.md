@@ -18,4 +18,4 @@ This project serves as a practical exercise for refining skills in HTML markup, 
 
 ## Usage
 
-To access the Incredible Website, simply click on the following link: [Incredible Website](https://federedd.github.io/incredible-website/).
+To access the Incredible Website, simply click on the following link: [Incredible Website](https://federedd.github.io/incredible/).
